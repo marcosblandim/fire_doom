@@ -1,9 +1,10 @@
 # Recriation of the fire from the game Doom, using python opencv.
 
-* Python 3.*
-* Opencv 4.*
+## Before you start
 
-# Usage
+* Make sure you're using python version 3 and opencv version 4.
+
+## Usage
 
 1. Make sure you have python 3 and opencv 4 installed in your machine.
 2. Clone this repository.
@@ -15,5 +16,5 @@ or
 ```shell
     python fire_doom2.py
 ```
-3. Press 'd' or 'a' increase or decrease the fuel, and 'w' or 's' to  increase or decrease oxygen.
+3. Press 'd' or 'a' to increase or decrease the fuel, and 'w' or 's' to  increase or decrease oxygen.
 4. Press Q to exit.
