@@ -6,9 +6,8 @@
 
 ## Usage
 
-1. Make sure you have python 3 and opencv 4 installed in your machine.
-2. Clone this repository.
-3. Run:
+1. Clone this repository.
+2. Run:
 ```shell
     python fire_doom1.py
 ```
