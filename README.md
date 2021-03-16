@@ -1,4 +1,4 @@
-# Recriation of the fire from the game Doom, using python opencv.
+# Recreation of the fire from the game Doom, using python opencv.
 
 ## Before you start
 
