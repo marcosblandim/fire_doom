@@ -7,7 +7,11 @@
 ## Usage
 
 1. Clone this repository.
-2. Run:
+2. Pip install requirements
+```shell
+pip install -r requirements.txt
+```
+4. Run:
 ```shell
     python fire_doom1.py
 ```
